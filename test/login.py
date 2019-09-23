@@ -8,4 +8,6 @@ num4=400
 
 num5=500
 
+num=600
+
 over
